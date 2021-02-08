@@ -1,0 +1,53 @@
+html {
+       background-color: rgb(160, 175, 161);
+}
+
+section{
+       background-color: rgb(143, 153, 140);
+}
+
+.title{
+       width: 200px;
+       height: 50px;
+       background-color: rgb(98, 109, 89);
+}
+
+.p1 {
+      width: 200px;
+      height: 50px;
+      background-color: rgb(164, 165, 163);
+}
+
+.sub {
+      width: 200px;
+      height: 50px;
+      background-color: rgb(177, 187, 171);
+}
+
+.p2 {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(104, 112, 99);
+
+}
+
+#item1 {
+     color:rgb(202, 202, 202);
+}
+
+#item2 {
+     color:rgb(185, 185, 185);
+}
+
+#item3 {
+     color:rgb(175, 175, 175);
+}
+
+#item4 {
+     color:rgb(136, 136, 136);
+}
+
+#item5 {
+     color:rgb(110, 110, 110);
+     
+}
